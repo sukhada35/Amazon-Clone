@@ -18,6 +18,6 @@ To view the Amazon clone, simply open the `index.html` file in your web browser.
 
 ## Credits
 
-- **Developer:** Your Name ([@sukhada35](https://github.com/sukhada35))
+- **Developer:** Sukhada ([@sukhada35](https://github.com/sukhada35))
 - **Inspiration:** [Amazon](https://www.amazon.com)
 
