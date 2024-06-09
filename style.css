@@ -139,3 +139,47 @@ span {
     font-size: 0.9rem;
     font-weight: 600;
 }
+
+/* hero section */
+
+.hero-section {
+    background-image: url("images/hero_image.jpg");
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero-msg {
+    background-color: white;
+    color: black;
+    height: 40px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 25px;
+}
+
+.hero-msg a {
+    color: #007185
+}
+
+.hero-arrow {
+    position: absolute;
+    top: 40%;
+    color: #f3f3f3;
+    height: 50px;
+    font-size: 2.5rem;
+    cursor: pointer;
+}
+
+.left {
+    left: 10px;
+}
+
+.right {
+    right: 10px;
+}
