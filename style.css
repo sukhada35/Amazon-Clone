@@ -190,6 +190,7 @@ span {
     display: flex;
     justify-content: space-evenly;
     background-color: #e2e6e7;
+    flex-wrap: wrap;
 }
 
 .box {
