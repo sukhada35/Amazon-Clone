@@ -10,7 +10,7 @@ A clone of the Amazon website created to practice and enhance my web development
 
 ## Screenshots
 
-*Working on it...*
+![Screenshot 1](images/Screenshot1.png)
 
 ## Usage
 
