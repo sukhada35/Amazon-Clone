@@ -11,7 +11,8 @@ A clone of the Amazon website created to practice and enhance my web development
 ## Screenshots
 
 ![Screenshot 1](images/Screenshot1.png)
-![Screenshot 1](images/Screenshot2.png)
+![Screenshot 2](images/Screenshot2.png)
+![Screenshot 3](images/Screenshot3.png)
 
 ## Usage
 
