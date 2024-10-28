@@ -1,4 +1,4 @@
-# Amazon Clone.
+# Amazon Clone
 
 A clone of the Amazon website created to practice and enhance my web development skills using HTML and CSS. The design aims to closely mimic Amazon's layout and styling..
 
