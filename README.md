@@ -18,6 +18,10 @@ A clone of the Amazon website created to practice and enhance my web development
 
 To view the Amazon clone, simply open the `index.html` file in your web browser.
 
+## Future Scope
+
+I plan to incorporate JavaScript to enhance the functionality of the project.
+
 ## Credits
 
 - **Developer:** Sukhada ([@sukhada35](https://github.com/sukhada35))
